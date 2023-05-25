@@ -1,8 +1,3 @@
-Rama Naga Satya Harsha Tammana
-rtamman1@binghamton.edu
-python3
-
-yes tested in remote.cs.binghamton.edu
 
 Server:
 python3 sftpserv.py 7334
